@@ -18,7 +18,7 @@ params = {
 
 
 australia = {
-        8: (85, 120, 260, 262),
+        8: (85, 120, 260, 300),
 #        8: (96, 100, 265, 270),  # Testing settings, just does a 5*5 matrix
         }
 
